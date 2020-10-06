@@ -35,7 +35,7 @@ To use security keys for logging in to web apps and services, you must have a br
 
 ## Prepare devices for preview
 
-Azure AD joined devices that you pilot with must run Windows 10 version 1909 or higher. The best experience is on Windows 10 version 1903 or higher.
+Azure AD joined devices that you pilot with must run Windows 10 version 1903 or higher. The best experience is on Windows 10 version 1909 or higher.
 
 Hybrid Azure AD joined devices must run Windows 10 version 2004 or newer.
 
